@@ -1,9 +1,7 @@
 # Learning Domain-Agnostic Spatial-Angular Feature for Light Field Image Super-Resolution
-
-
 <div align="center">
-[Wang Xia](https://github.com/stanley-313) · Yao Lu · [Shunzhou Wang](https://scholar.google.com/citations?hl=zh-CN&user=XVAhrT4AAAAJ) · Linwen Xu
-<br>
+    <a href='https://github.com/stanley-313'>Wang Xia</a> · Yao Lu · <a href='https://scholar.google.com/citations?hl=zh-CN&user=XVAhrT4AAAAJ'>Shunzhou Wang</a> · Linwen Xu
+<br><br>
 <a href='https://www.sciencedirect.com/science/article/pii/S0031320326003006?dgcid=coauthor'><img alt="Static Badge" src="https://img.shields.io/badge/Paper-LF_DANet-green"></a>
 </div>
 
